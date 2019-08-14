@@ -12,15 +12,20 @@ We are going to split this out into mini-chalenges.
 
 ### Card generator
 
-Using classic BINGO spaces (B-I-N-G-O 1-75), generate BINGO cards. Don't forget about the free space in the center of the card! The card is a 5x5 grid with column headings of B, I, N, G and O. There are a total of 75 possible numbers that can be filled into the grid, but placement is not entirely random. Each letter column corresponds to a set of 15 numbers as follows: 
-
 ![BINGO Card](https://cdn.shopify.com/s/files/1/1279/9999/products/65-0081__64041.1410898720.1280.1280_e680ab48-cbfd-41d2-8cea-beb4cd32cf5b_2048x.jpeg?v=1547654965)
 
+Using classic BINGO spaces (B-I-N-G-O 1-75), generate BINGO cards. Don't forget about the free space in the center of the card! The card is a 5x5 grid with column headings of B, I, N, G and O. There are a total of 75 possible numbers that can be filled into the grid, but placement is not entirely random. Each letter column corresponds to a set of 15 numbers as follows: 
+
 B) 1 - 15
+
 I) 16 - 30
+
 N) 31 - 45
+
 G) 46 - 60
+
 O) 61 - 75
+
 
 ### BINGO caller
 
