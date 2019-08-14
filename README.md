@@ -12,7 +12,7 @@ We are going to split this out into mini-chalenges.
 
 ### Card generator
 
-![BINGO Card](https://cdn.shopify.com/s/files/1/1279/9999/products/65-0081__64041.1410898720.1280.1280_e680ab48-cbfd-41d2-8cea-beb4cd32cf5b_2048x.jpeg?v=1547654965)
+![BINGO Card](https://images-na.ssl-images-amazon.com/images/I/710rogmABhL._SY355_.jpg)
 
 Using classic BINGO spaces (B-I-N-G-O 1-75), generate BINGO cards. Don't forget about the free space in the center of the card! The card is a 5x5 grid with column headings of B, I, N, G and O. There are a total of 75 possible numbers that can be filled into the grid, but placement is not entirely random. Each letter column corresponds to a set of 15 numbers as follows: 
 
@@ -72,5 +72,5 @@ _Postage Stamp_
 
 ## References
 
-[Bingo - Wikipedia](https://en.wikipedia.org/wiki/Bingo_(U.S.))
-[Talking Terminal: Have Your Mac Say Hello](https://www.lifewire.com/mac-say-command-with-talking-terminal-2260772)
+- [Bingo - Wikipedia](https://en.wikipedia.org/wiki/Bingo_(U.S.))
+- [Talking Terminal: Have Your Mac Say Hello](https://www.lifewire.com/mac-say-command-with-talking-terminal-2260772)
