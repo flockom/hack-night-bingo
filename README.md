@@ -43,19 +43,24 @@ Once you have created your classic boards, try allowing board generation using a
 The classic game is won when a player marks a line of 5 spaces either horizontally, vertically, or diagonally. What other patterns can you use to get a winner? Here are some options:
 
 _X Pattern_
+
 ![X pattern](https://cdn.shopify.com/s/files/1/0075/8222/0343/products/BGLetterX-2_480x480.gif?v=1562947723)
 
 _Diamond_
+
 ![Diamond pattern](http://ltbandbingo.com/images/patterns/Hollow%20Diamond%20Pattern.png)
 
 _Plus_
+
 ![Plus pattern](http://ltbandbingo.com/images/patterns/Plus%20Bingo%20Pattern.png)
 
 _Pyramid_
+
 (can be from any edge)
-![Pyramid pattern(http://ltbandbingo.com/images/patterns/Pyramid%20Bingo%20Pattern.png)
+![Pyramid pattern](http://ltbandbingo.com/images/patterns/Pyramid%20Bingo%20Pattern.png)
 
 _Postage Stamp_
+
 (can be from any corner)
 ![Postage stamp](http://ltbandbingo.com/images/patterns/4%20Corner%20Stamps%20Bingo%20Pattern.png)
 
