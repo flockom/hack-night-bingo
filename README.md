@@ -55,13 +55,13 @@ _Plus_
 ![Plus pattern](http://ltbandbingo.com/images/patterns/Plus%20Bingo%20Pattern.png)
 
 _Pyramid_
-
 (can be from any edge)
+
 ![Pyramid pattern](http://ltbandbingo.com/images/patterns/Pyramid%20Bingo%20Pattern.png)
 
 _Postage Stamp_
-
 (can be from any corner)
+
 ![Postage stamp](http://ltbandbingo.com/images/patterns/4%20Corner%20Stamps%20Bingo%20Pattern.png)
 
 
