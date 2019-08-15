@@ -51,8 +51,38 @@ def generate_column(min, max)
   column
 end
 
+def caller
+  x = rand(1..75)
+  if x < 16
+    y = "B#{x}"
+  elsif x < 31
+    y = "I#{x}"
+  elsif x < 46
+    y = "N#{x}"
+  elsif x < 61
+    y = "G#{x}"
+  else x <= 75
+    y = "O#{x}"
+  end
+  return y
+end
+
+def game
+  line = ""
+  while line.strip != "bingo"
+    `say #{caller}`
+    p "type n for next or bingo to end game" 
+    line = $stdin.readline()
+  end
+  `say "Congrats on BINGO!!"`
+  
+  
+end
+
 
 
 board = generate_board
 
 print_board(board)
+
+game
